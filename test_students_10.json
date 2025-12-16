@@ -1,0 +1,97 @@
+{
+  "numColumns": 5,
+  "columns": [
+    {
+      "name": "id",
+      "type": 1
+    },
+    {
+      "name": "name",
+      "type": 2
+    },
+    {
+      "name": "age",
+      "type": 1
+    },
+    {
+      "name": "score",
+      "type": 1
+    },
+    {
+      "name": "major",
+      "type": 2
+    }
+  ],
+  "records": [
+    {
+      "id": 1,
+      "name": "冯勇",
+      "age": 21,
+      "score": 86,
+      "major": "Psychology"
+    },
+    {
+      "id": 2,
+      "name": "陈静",
+      "age": 20,
+      "score": 72,
+      "major": "Economics"
+    },
+    {
+      "id": 3,
+      "name": "吴娟",
+      "age": 20,
+      "score": 90,
+      "major": "Business"
+    },
+    {
+      "id": 4,
+      "name": "王芳",
+      "age": 25,
+      "score": 67,
+      "major": "Business"
+    },
+    {
+      "id": 5,
+      "name": "黄磊",
+      "age": 24,
+      "score": 63,
+      "major": "Physics"
+    },
+    {
+      "id": 6,
+      "name": "杨军",
+      "age": 20,
+      "score": 77,
+      "major": "Engineering"
+    },
+    {
+      "id": 7,
+      "name": "Frank Taylor",
+      "age": 19,
+      "score": 90,
+      "major": "History"
+    },
+    {
+      "id": 8,
+      "name": "Nancy Brown",
+      "age": 23,
+      "score": 75,
+      "major": "Education"
+    },
+    {
+      "id": 9,
+      "name": "郑浩",
+      "age": 21,
+      "score": 65,
+      "major": "Education"
+    },
+    {
+      "id": 10,
+      "name": "黄磊",
+      "age": 23,
+      "score": 81,
+      "major": "Philosophy"
+    }
+  ]
+}

@@ -1,0 +1,727 @@
+{
+  "numColumns": 5,
+  "columns": [
+    {
+      "name": "id",
+      "type": 1
+    },
+    {
+      "name": "name",
+      "type": 2
+    },
+    {
+      "name": "age",
+      "type": 1
+    },
+    {
+      "name": "score",
+      "type": 1
+    },
+    {
+      "name": "major",
+      "type": 2
+    }
+  ],
+  "records": [
+    {
+      "id": 1,
+      "name": "Uma Anderson",
+      "age": 23,
+      "score": 63,
+      "major": "Medicine"
+    },
+    {
+      "id": 2,
+      "name": "杨军",
+      "age": 24,
+      "score": 78,
+      "major": "Economics"
+    },
+    {
+      "id": 3,
+      "name": "Eve Smith",
+      "age": 19,
+      "score": 63,
+      "major": "Engineering"
+    },
+    {
+      "id": 4,
+      "name": "陈霞",
+      "age": 19,
+      "score": 76,
+      "major": "Mathematics"
+    },
+    {
+      "id": 5,
+      "name": "Leo Garcia",
+      "age": 21,
+      "score": 79,
+      "major": "History"
+    },
+    {
+      "id": 6,
+      "name": "Victor Thomas",
+      "age": 18,
+      "score": 74,
+      "major": "Computer Science"
+    },
+    {
+      "id": 7,
+      "name": "杨军",
+      "age": 24,
+      "score": 62,
+      "major": "Psychology"
+    },
+    {
+      "id": 8,
+      "name": "Yuki Jones",
+      "age": 20,
+      "score": 61,
+      "major": "Economics"
+    },
+    {
+      "id": 9,
+      "name": "Yuki Smith",
+      "age": 25,
+      "score": 60,
+      "major": "Mathematics"
+    },
+    {
+      "id": 10,
+      "name": "Tom Smith",
+      "age": 24,
+      "score": 64,
+      "major": "Psychology"
+    },
+    {
+      "id": 11,
+      "name": "杨军",
+      "age": 21,
+      "score": 98,
+      "major": "Physics"
+    },
+    {
+      "id": 12,
+      "name": "Mary Taylor",
+      "age": 21,
+      "score": 67,
+      "major": "Education"
+    },
+    {
+      "id": 13,
+      "name": "Wendy Jones",
+      "age": 19,
+      "score": 60,
+      "major": "History"
+    },
+    {
+      "id": 14,
+      "name": "吴娟",
+      "age": 25,
+      "score": 71,
+      "major": "Economics"
+    },
+    {
+      "id": 15,
+      "name": "Sam Jones",
+      "age": 23,
+      "score": 100,
+      "major": "Chemistry"
+    },
+    {
+      "id": 16,
+      "name": "Ivy Rodriguez",
+      "age": 19,
+      "score": 60,
+      "major": "Physics"
+    },
+    {
+      "id": 17,
+      "name": "Zoe Garcia",
+      "age": 20,
+      "score": 99,
+      "major": "Education"
+    },
+    {
+      "id": 18,
+      "name": "冯勇",
+      "age": 20,
+      "score": 75,
+      "major": "Biology"
+    },
+    {
+      "id": 19,
+      "name": "王芳",
+      "age": 19,
+      "score": 72,
+      "major": "Biology"
+    },
+    {
+      "id": 20,
+      "name": "陈静",
+      "age": 20,
+      "score": 64,
+      "major": "Mathematics"
+    },
+    {
+      "id": 21,
+      "name": "郑浩",
+      "age": 23,
+      "score": 94,
+      "major": "Chemistry"
+    },
+    {
+      "id": 22,
+      "name": "Xavier Smith",
+      "age": 18,
+      "score": 64,
+      "major": "Business"
+    },
+    {
+      "id": 23,
+      "name": "吴娟",
+      "age": 23,
+      "score": 98,
+      "major": "Chemistry"
+    },
+    {
+      "id": 24,
+      "name": "Frank Williams",
+      "age": 21,
+      "score": 78,
+      "major": "Biology"
+    },
+    {
+      "id": 25,
+      "name": "Yuki Jackson",
+      "age": 19,
+      "score": 74,
+      "major": "Philosophy"
+    },
+    {
+      "id": 26,
+      "name": "Victor Johnson",
+      "age": 22,
+      "score": 65,
+      "major": "Computer Science"
+    },
+    {
+      "id": 27,
+      "name": "Henry Lee",
+      "age": 19,
+      "score": 75,
+      "major": "Chemistry"
+    },
+    {
+      "id": 28,
+      "name": "Mary Garcia",
+      "age": 24,
+      "score": 63,
+      "major": "Mathematics"
+    },
+    {
+      "id": 29,
+      "name": "王芳",
+      "age": 21,
+      "score": 84,
+      "major": "Mathematics"
+    },
+    {
+      "id": 30,
+      "name": "Zoe Martinez",
+      "age": 21,
+      "score": 75,
+      "major": "Law"
+    },
+    {
+      "id": 31,
+      "name": "Alice Garcia",
+      "age": 19,
+      "score": 80,
+      "major": "Biology"
+    },
+    {
+      "id": 32,
+      "name": "刘强",
+      "age": 23,
+      "score": 96,
+      "major": "Medicine"
+    },
+    {
+      "id": 33,
+      "name": "Zoe Martinez",
+      "age": 21,
+      "score": 98,
+      "major": "Chemistry"
+    },
+    {
+      "id": 34,
+      "name": "Victor Martin",
+      "age": 21,
+      "score": 85,
+      "major": "Medicine"
+    },
+    {
+      "id": 35,
+      "name": "Charlie Hernandez",
+      "age": 18,
+      "score": 82,
+      "major": "Computer Science"
+    },
+    {
+      "id": 36,
+      "name": "Xavier Miller",
+      "age": 18,
+      "score": 68,
+      "major": "Education"
+    },
+    {
+      "id": 37,
+      "name": "Peter Lee",
+      "age": 18,
+      "score": 64,
+      "major": "Mathematics"
+    },
+    {
+      "id": 38,
+      "name": "Frank Moore",
+      "age": 23,
+      "score": 72,
+      "major": "Literature"
+    },
+    {
+      "id": 39,
+      "name": "陈霞",
+      "age": 18,
+      "score": 79,
+      "major": "Engineering"
+    },
+    {
+      "id": 40,
+      "name": "Zoe Moore",
+      "age": 24,
+      "score": 83,
+      "major": "Computer Science"
+    },
+    {
+      "id": 41,
+      "name": "Leo Brown",
+      "age": 25,
+      "score": 91,
+      "major": "Business"
+    },
+    {
+      "id": 42,
+      "name": "Leo Hernandez",
+      "age": 24,
+      "score": 80,
+      "major": "Mathematics"
+    },
+    {
+      "id": 43,
+      "name": "Leo Johnson",
+      "age": 18,
+      "score": 68,
+      "major": "Computer Science"
+    },
+    {
+      "id": 44,
+      "name": "Uma Martin",
+      "age": 25,
+      "score": 68,
+      "major": "Physics"
+    },
+    {
+      "id": 45,
+      "name": "周涛",
+      "age": 22,
+      "score": 60,
+      "major": "Law"
+    },
+    {
+      "id": 46,
+      "name": "Uma Jackson",
+      "age": 18,
+      "score": 70,
+      "major": "Medicine"
+    },
+    {
+      "id": 47,
+      "name": "陈静",
+      "age": 24,
+      "score": 76,
+      "major": "Education"
+    },
+    {
+      "id": 48,
+      "name": "Wendy Garcia",
+      "age": 23,
+      "score": 78,
+      "major": "History"
+    },
+    {
+      "id": 49,
+      "name": "Yuki Taylor",
+      "age": 21,
+      "score": 73,
+      "major": "Psychology"
+    },
+    {
+      "id": 50,
+      "name": "Mary Jackson",
+      "age": 21,
+      "score": 70,
+      "major": "Computer Science"
+    },
+    {
+      "id": 51,
+      "name": "郑浩",
+      "age": 24,
+      "score": 67,
+      "major": "Medicine"
+    },
+    {
+      "id": 52,
+      "name": "冯勇",
+      "age": 25,
+      "score": 86,
+      "major": "Chemistry"
+    },
+    {
+      "id": 53,
+      "name": "Rose Hernandez",
+      "age": 21,
+      "score": 88,
+      "major": "Law"
+    },
+    {
+      "id": 54,
+      "name": "Leo Hernandez",
+      "age": 25,
+      "score": 60,
+      "major": "Engineering"
+    },
+    {
+      "id": 55,
+      "name": "David Martinez",
+      "age": 23,
+      "score": 89,
+      "major": "Education"
+    },
+    {
+      "id": 56,
+      "name": "Eve Wilson",
+      "age": 20,
+      "score": 86,
+      "major": "Philosophy"
+    },
+    {
+      "id": 57,
+      "name": "Yuki Lopez",
+      "age": 23,
+      "score": 74,
+      "major": "Computer Science"
+    },
+    {
+      "id": 58,
+      "name": "David Lee",
+      "age": 23,
+      "score": 71,
+      "major": "Philosophy"
+    },
+    {
+      "id": 59,
+      "name": "Quinn Martinez",
+      "age": 21,
+      "score": 99,
+      "major": "Law"
+    },
+    {
+      "id": 60,
+      "name": "David Hernandez",
+      "age": 20,
+      "score": 93,
+      "major": "Computer Science"
+    },
+    {
+      "id": 61,
+      "name": "Xavier Anderson",
+      "age": 18,
+      "score": 68,
+      "major": "Business"
+    },
+    {
+      "id": 62,
+      "name": "Ivy Moore",
+      "age": 24,
+      "score": 85,
+      "major": "Mathematics"
+    },
+    {
+      "id": 63,
+      "name": "Victor Davis",
+      "age": 25,
+      "score": 98,
+      "major": "Economics"
+    },
+    {
+      "id": 64,
+      "name": "Xavier Martin",
+      "age": 20,
+      "score": 81,
+      "major": "Literature"
+    },
+    {
+      "id": 65,
+      "name": "Jack Brown",
+      "age": 19,
+      "score": 96,
+      "major": "Law"
+    },
+    {
+      "id": 66,
+      "name": "Bob Lee",
+      "age": 22,
+      "score": 90,
+      "major": "Law"
+    },
+    {
+      "id": 67,
+      "name": "冯勇",
+      "age": 21,
+      "score": 66,
+      "major": "Engineering"
+    },
+    {
+      "id": 68,
+      "name": "Uma Lopez",
+      "age": 23,
+      "score": 62,
+      "major": "Chemistry"
+    },
+    {
+      "id": 69,
+      "name": "郑浩",
+      "age": 25,
+      "score": 92,
+      "major": "Psychology"
+    },
+    {
+      "id": 70,
+      "name": "Wendy Wilson",
+      "age": 19,
+      "score": 99,
+      "major": "Medicine"
+    },
+    {
+      "id": 71,
+      "name": "Victor Lee",
+      "age": 20,
+      "score": 86,
+      "major": "Engineering"
+    },
+    {
+      "id": 72,
+      "name": "Rose Lopez",
+      "age": 24,
+      "score": 95,
+      "major": "Computer Science"
+    },
+    {
+      "id": 73,
+      "name": "David Thomas",
+      "age": 21,
+      "score": 68,
+      "major": "History"
+    },
+    {
+      "id": 74,
+      "name": "Frank Martinez",
+      "age": 25,
+      "score": 85,
+      "major": "Business"
+    },
+    {
+      "id": 75,
+      "name": "王芳",
+      "age": 18,
+      "score": 65,
+      "major": "Philosophy"
+    },
+    {
+      "id": 76,
+      "name": "周涛",
+      "age": 19,
+      "score": 76,
+      "major": "Chemistry"
+    },
+    {
+      "id": 77,
+      "name": "Victor Wilson",
+      "age": 19,
+      "score": 69,
+      "major": "Business"
+    },
+    {
+      "id": 78,
+      "name": "Bob Martin",
+      "age": 18,
+      "score": 69,
+      "major": "Engineering"
+    },
+    {
+      "id": 79,
+      "name": "Grace Moore",
+      "age": 20,
+      "score": 79,
+      "major": "Physics"
+    },
+    {
+      "id": 80,
+      "name": "Jack Martinez",
+      "age": 25,
+      "score": 89,
+      "major": "Psychology"
+    },
+    {
+      "id": 81,
+      "name": "杨军",
+      "age": 22,
+      "score": 80,
+      "major": "Economics"
+    },
+    {
+      "id": 82,
+      "name": "郑浩",
+      "age": 25,
+      "score": 92,
+      "major": "Economics"
+    },
+    {
+      "id": 83,
+      "name": "Eve Martin",
+      "age": 20,
+      "score": 74,
+      "major": "Mathematics"
+    },
+    {
+      "id": 84,
+      "name": "Xavier Thomas",
+      "age": 20,
+      "score": 67,
+      "major": "History"
+    },
+    {
+      "id": 85,
+      "name": "David Martin",
+      "age": 21,
+      "score": 99,
+      "major": "Education"
+    },
+    {
+      "id": 86,
+      "name": "Nancy Lee",
+      "age": 18,
+      "score": 85,
+      "major": "Philosophy"
+    },
+    {
+      "id": 87,
+      "name": "Rose Miller",
+      "age": 22,
+      "score": 71,
+      "major": "Mathematics"
+    },
+    {
+      "id": 88,
+      "name": "Mary Thomas",
+      "age": 19,
+      "score": 89,
+      "major": "Biology"
+    },
+    {
+      "id": 89,
+      "name": "Nancy Lee",
+      "age": 24,
+      "score": 98,
+      "major": "Economics"
+    },
+    {
+      "id": 90,
+      "name": "黄磊",
+      "age": 22,
+      "score": 69,
+      "major": "History"
+    },
+    {
+      "id": 91,
+      "name": "Victor Jackson",
+      "age": 20,
+      "score": 89,
+      "major": "Chemistry"
+    },
+    {
+      "id": 92,
+      "name": "Nancy Taylor",
+      "age": 23,
+      "score": 70,
+      "major": "Mathematics"
+    },
+    {
+      "id": 93,
+      "name": "Charlie Martinez",
+      "age": 25,
+      "score": 76,
+      "major": "Education"
+    },
+    {
+      "id": 94,
+      "name": "Eve Rodriguez",
+      "age": 25,
+      "score": 74,
+      "major": "Mathematics"
+    },
+    {
+      "id": 95,
+      "name": "Nancy Martinez",
+      "age": 24,
+      "score": 63,
+      "major": "Computer Science"
+    },
+    {
+      "id": 96,
+      "name": "黄磊",
+      "age": 18,
+      "score": 75,
+      "major": "Psychology"
+    },
+    {
+      "id": 97,
+      "name": "Peter Brown",
+      "age": 20,
+      "score": 86,
+      "major": "Psychology"
+    },
+    {
+      "id": 98,
+      "name": "Frank Jones",
+      "age": 22,
+      "score": 84,
+      "major": "Biology"
+    },
+    {
+      "id": 99,
+      "name": "Victor Martinez",
+      "age": 18,
+      "score": 65,
+      "major": "Chemistry"
+    },
+    {
+      "id": 100,
+      "name": "赵敏",
+      "age": 21,
+      "score": 61,
+      "major": "Literature"
+    }
+  ]
+}
